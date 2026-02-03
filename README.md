@@ -86,7 +86,8 @@ The Power BI dashboard includes:
 * Trend analysis over time
 * Interactive filters for better exploration
 
-> *(Add Power BI dashboard screenshots or report link here)*
+> ![Power BI Dashboard](dashboard.png)
+
 
 ---
 
